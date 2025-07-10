@@ -37,7 +37,7 @@ git checkout dev-public
 
 ## Configure Environmental Variables
 
-Open the _.env_ file located in the root directory and fill in the required environmental variables:
+Open the _.env.local_ file located in the root directory and fill in the required environmental variables:
 
 ```env
 # IP of admin (other IPs will be blacklisted)
